@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\martyna\documents\visual studio 2015\projects\zmpo_lab_2\zmpo_lab_2\main.cpp(135): error C2664: 'CRectangle::CRectangle(const CRectangle &)': cannot convert argument 1 from 'CPoint2D *' to 'const CPoint2D &'
+  c:\users\martyna\documents\visual studio 2015\projects\zmpo_lab_2\zmpo_lab_2\main.cpp(135): note: Reason: cannot convert from 'CPoint2D *' to 'const CPoint2D'
+  c:\users\martyna\documents\visual studio 2015\projects\zmpo_lab_2\zmpo_lab_2\main.cpp(135): note: No constructor could take the source type, or constructor overload resolution was ambiguous
+  CRectangle.cpp
+  Generating Code...
